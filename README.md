@@ -6,4 +6,6 @@
 
 Pierwszy commit
 
+Drugi commit
+
 #Referencje
