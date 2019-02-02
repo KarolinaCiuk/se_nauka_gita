@@ -2,4 +2,8 @@
 
 ##Spec
 
+#TODO
+
+Pierwszy commit
+
 #Referencje
