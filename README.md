@@ -1,7 +1,6 @@
-kkjakja
+# Testy platforma AI dla Ksiegowosci
 
-hjgvjhjhv
+##SPEC
 
-jbjjhb
 
-alalalla
+#REFERENCJE
