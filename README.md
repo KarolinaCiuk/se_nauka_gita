@@ -22,3 +22,5 @@ Trzeci commit
 
 #SMOKE commit 1
 
+#SMOKE commit 2
+
