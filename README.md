@@ -18,3 +18,7 @@ Trzeci commit
 
 #Referencje
 
+
+
+#SMOKE commit 1
+
