@@ -8,4 +8,6 @@ Pierwszy commit
 
 Drugi commit
 
+Trzeci commit
+
 #Referencje
