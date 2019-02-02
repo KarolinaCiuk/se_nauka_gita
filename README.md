@@ -1,11 +1,11 @@
 # Testy platforma AI dla Ksiegowosci
 
-<<<<<<< HEAD
+
 ##SPEC
 
 
 #REFERENCJE
-=======
+
 ##Spec
 
 #TODO
@@ -17,4 +17,4 @@ Drugi commit
 Trzeci commit
 
 #Referencje
->>>>>>> add_TODO_to_README
+
